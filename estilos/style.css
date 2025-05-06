@@ -53,8 +53,8 @@ section#redes-sociais img {
 }
 
  section#redes-sociais img:hover {
-    border: 2px solid rgba(255, 255, 255, 0.49);
-    transform: scale(1.2) translate(-5px,-3px);
+    border: 2px solid rgb(255, 255, 255);
+    transform: scale(90%);
     box-shadow: 5px 5px 10px black;
     transition: transform .5s;
  }
